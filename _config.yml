@@ -1,7 +1,8 @@
 # Site settings
 title: Santiago Salazar Pavajeau
 email: your-email@domain.com
-url: santiagosalazarpavajeau.live
+url: https://santiagosalazarpavajeau.github.io/
+baseurl: ""
 description: "Business management administrator with a background in science turned Software Engineer with a passion for
 problem solving and innovative technical projects. Experienced in project management, database building, and project
 coordination. Looking to partner with a company with an open culture that values collaboration, creative
