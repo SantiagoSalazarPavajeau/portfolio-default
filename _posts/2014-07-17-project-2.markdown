@@ -2,10 +2,14 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: chordsbeats.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: A music/game app where chords can be combined into a song with a few clicks, saving the song into the database.
+ Developed a SPA with modular vanilla Javascript (OOP ES6).
+ Built a Rails back-end using Fast JSON API serializer for a RESTful service.
+ Leveraged the HTML multimedia elements and event functionality for an interactive interface.
+ Deployed through Heroku and Github Pages.
 ---
